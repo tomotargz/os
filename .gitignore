@@ -1,0 +1,5 @@
+*.o
+*.efi
+boot/mnt
+boot/disk.img
+
